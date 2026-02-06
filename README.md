@@ -21,7 +21,7 @@ It implements most of the `PSG's` original registers. <br>
 The offical datasheet for the `PSG` can be found [`here`](http://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf).
 
 > **Online Player/Emulator by DrSnuggles** <br>
-> [`player link`](https://files.lunar.sh/apps/AYSir/?engine=lunar) 
+> [`player link`](https://files.lunar.sh/app/AYSir/?engine=lunar) 
 
 Sound output is achieved in the browser through an `AudioContext()` hook. <br>
 This `emulator` also adds interrupt support (with a user defined frequency) for updating the `PSG's` registers.
