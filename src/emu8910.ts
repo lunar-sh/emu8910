@@ -55,7 +55,7 @@ const DAC_SHIFT = 40;
 
 const CUBIC_INTERPOL = 0.5;
 
-const FIR_CUTOFF = 10000; // Hz
+const FIR_CUTOFF = 5000; // Hz
 const FIR_TAPS = 50; // N taps
 
 const WAVE_OVERSAMPLE = 4;
